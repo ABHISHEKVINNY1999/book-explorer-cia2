@@ -1,0 +1,5 @@
+{
+  "name": "Book Explorer",
+  "description": "A simple application to search for books by category using the OpenLibrary API and display the results in a clean, modern interface.",
+  "requestFramePermissions": []
+}
